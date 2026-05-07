@@ -1,1 +1,0 @@
-https://github.com/JoacoSlime/seminario-de-rust/blob/main/clases/clase_1_rust.pdf   esta es  el github con los contenidos para aprender rust
